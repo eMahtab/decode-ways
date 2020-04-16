@@ -1,5 +1,6 @@
 # Decode Ways
 
+![Decode Ways]('decode-ways.PNG')
 
 ## Implementation :
 ```java
