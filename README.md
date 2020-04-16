@@ -27,7 +27,7 @@ Explanation: It could be decoded as "BZ" (2 26), "VF" (22 6), or "BBF" (2 2 6).
 
 ![Decode Ways](decode-ways.PNG)
 
-## Implementation :
+## Implementation : Time => O(number of characters) , Space => O(number of characters)
 ```java
 class Solution {
 
